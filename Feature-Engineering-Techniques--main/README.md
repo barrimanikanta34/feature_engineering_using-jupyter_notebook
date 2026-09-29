@@ -42,7 +42,7 @@ By working through this repository, you will learn how to:
 
 ## 1️⃣ Handling Missing Data
 
-📓 Notebook: [01. Feature Engineering- Handling Missing Data ](https://github.com/Ganesh-Ganga/Feature-Engineering-Techniques-/blob/main/01.%20Feature%20Engineering-%20Handling%20Missing%20Data.ipynb)
+📓 Notebook: [01. Feature Engineering- Handling Missing Data ](https://github.com/barrimanikanta34/feature_engineering_using-jupyter_notebook/blob/main/Feature-Engineering-Techniques--main/01.%20Feature%20Engineering-%20Handling%20Missing%20Data.ipynb)
 
 Missing values are extremely common in real-world datasets.
 
@@ -67,7 +67,7 @@ The notebook uses the Titanic dataset available through Seaborn.
 
 ## 2️⃣ Handling Imbalanced Dataset
 
-📓 Notebook: [02. Feature Engineering- Handling Imbalanced Dataset](https://github.com/Ganesh-Ganga/Feature-Engineering-Techniques-/blob/main/02.%20Feature%20Engineering-%20Handling%20Imbalanced%20Dataset.ipynb)
+📓 Notebook: [02. Feature Engineering- Handling Imbalanced Dataset](https://github.com/barrimanikanta34/feature_engineering_using-jupyter_notebook/blob/main/Feature-Engineering-Techniques--main/02.%20Feature%20Engineering-%20Handling%20Imbalanced%20Dataset.ipynb)
 
 A classification dataset is called imbalanced when one class contains significantly more observations than another.
 
@@ -106,7 +106,7 @@ Imbalanced Dataset
 
 ## 3️⃣ SMOTE — Synthetic Minority Oversampling Technique
 
-📓 Notebook: [03. Feature Engineering-SMOTE](https://github.com/Ganesh-Ganga/Feature-Engineering-Techniques-/commit/ae148e356e53e7df6a18c20c7e13fb8b2cc6289f)
+📓 Notebook: [03. Feature Engineering-SMOTE](https://github.com/barrimanikanta34/feature_engineering_using-jupyter_notebook/blob/main/Feature-Engineering-Techniques--main/03.%20Feature%20Engineering-SMOTE.ipynb)
 
 SMOTE is a powerful technique used to handle imbalanced datasets.
 
@@ -152,7 +152,7 @@ X, y = oversample.fit_resample(
 ```
 ## 4️⃣ Handling Outliers with Python
 
-📓 Notebook: [04. Handling Outliers with Python](https://github.com/Ganesh-Ganga/Feature-Engineering-Techniques-/blob/main/04.%20Handling%20Outliers%20with%20Python.ipynb)
+📓 Notebook: [04. Handling Outliers with Python](https://github.com/barrimanikanta34/feature_engineering_using-jupyter_notebook/blob/main/Feature-Engineering-Techniques--main/05.%20Data%20Encoding-Nomianl_One%20Hot%20Encoding%20.ipynb)
 
 Outliers are observations that are significantly different from the majority of the data.
 
@@ -178,7 +178,7 @@ The notebook also uses visualization to better understand the distribution of th
 
 ## 5️⃣ Data Encoding — Nominal, Label, Ordinal & Target Guided Encoding
 
-📓 Notebook: [05. Data Encoding-Nomianl_One Hot Encoding](https://github.com/Ganesh-Ganga/Feature-Engineering-Techniques-/blob/main/05.%20Data%20Encoding-Nomianl_One%20Hot%20Encoding%20.ipynb)
+📓 Notebook: [05. Data Encoding-Nomianl_One Hot Encoding](https://github.com/barrimanikanta34/feature_engineering_using-jupyter_notebook/blob/main/Feature-Engineering-Techniques--main/05.%20Data%20Encoding-Nomianl_One%20Hot%20Encoding%20.ipynb)
 
 Machine Learning algorithms generally work with numerical data.  
 However, real-world datasets often contain **categorical features** such as colors, sizes, cities, gender, smoker status, etc.
@@ -667,7 +667,7 @@ After completing this chapter, you will understand:
 ## 🚀 Getting Started
 
 1. Clone the Repository
-git clone [📘 View Repository](https://github.com/Ganesh-Ganga/Feature-Engineering-Techniques-) https://github.com/Ganesh-Ganga/Feature-Engineering-Techniques-.git  
+git clone [📘 View Repository](gh repo clone barrimanikanta34/feature_engineering_using-jupyter_notebook)  
 2. Navigate to the Project  
 ***cd "01.Feature Engineering with python"***
 3. Install Required Libraries  
@@ -696,8 +696,7 @@ Suggestions, improvements, and additional feature-engineering techniques are wel
 If you find something useful in this repository, feel free to ⭐ Star the project.
 
 ## 👨‍💻 Author
-
-Ganesh Ganga 
+BARRI MANIKANTA
 
 
 ### 📌 Data Science & Machine Learning Enthusiast
